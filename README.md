@@ -4,7 +4,7 @@
 
 I have created a simple project named "ipdetails" using JavaScript. With a single click, users can access comprehensive details about their IP address and location.
 
-#### https://starkverma111.github.io/bootstrap-Social/
+#### https://starkverma111.github.io/ipdetails/
 
 ` Html | Bootstrap 5 | Javascript `
 
